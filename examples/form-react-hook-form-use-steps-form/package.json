@@ -21,7 +21,7 @@
     "react-hook-form": "^7.30.0"
   },
   "devDependencies": {
-    "cypress": "^12.11.0"
+    "cypress": "^14.5.2"
   },
   "scripts": {
     "start": "cross-env DISABLE_ESLINT_PLUGIN=true refine start",
