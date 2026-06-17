@@ -21,7 +21,7 @@
     "antd": "^5.0.5"
   },
   "devDependencies": {
-    "cypress": "^12.11.0"
+    "cypress": "^15.17.0"
   },
   "scripts": {
     "start": "cross-env DISABLE_ESLINT_PLUGIN=true refine start",
